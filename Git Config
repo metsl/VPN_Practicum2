@@ -1,0 +1,18 @@
+C:\Users\AntonKheyfets\Documents\Docker_Training\Project\VPN_project>git history
+commit 0b28ecd8490da2483c05ec6661d0b82cd833d074 (HEAD -> webui, origin/webui)
+Author: AntonK <antonkheyfets@gmail.com>
+Date:   Thu Apr 14 22:10:49 2022 +0300
+
+    created webui.html
+
+commit 0f34cbb9b2759723694f5eb1556708506c04c734
+Author: AntonK <antonkheyfets@gmail.com>
+Date:   Thu Apr 14 22:05:43 2022 +0300
+
+    removed webui.html
+
+commit ccad0be95d8d51fe638c08fbabb4ca6999347482
+Author: AntonK <antonkheyfets@gmail.com>
+Date:   Thu Apr 14 22:01:26 2022 +0300
+
+    created webui file
