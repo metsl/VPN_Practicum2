@@ -17,3 +17,11 @@ Jun must always create pull requests for any changes
 Project: VPN client
 
 Branches naming: master, webui, ssh, data_compression
+
+
+
+!!!!!!!!!!!!!For Juns !!!!!!!!!!!!!!!!!!!!
+
+to create new branch : git branch <name>
+to switch to branch and make editions: git checkout <branch_name>
+To merge data from your current branch to another: git merge <branch_name> Please note that first you need to switch to the branch, you want to merge data from
